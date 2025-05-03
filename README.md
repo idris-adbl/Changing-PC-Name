@@ -1,4 +1,4 @@
-# Changin  **Changing PC Name**
+# Changing PC Name
 
 
 1. Go to settings > system> about> Rename the PC> This PC
